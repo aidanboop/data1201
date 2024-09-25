@@ -6,9 +6,9 @@
 ### Table of Work.
 | Week | Lab Content | Project |
 |:-----|:-----------:|--------:|
-| Week 1| Starting Linux| Text| -|
+| Week 1| Starting Linux| -|
 | Week 2| Command Line Basics| -|
-| Week 3| Working With Files| Text| -|
+| Week 3| Working With Files| -|
 | Week 4| Markdown| This ReadMe|
-| Week 5| -| Text| -|
+| Week 5| -| -|
 | Week 6| -| -|
