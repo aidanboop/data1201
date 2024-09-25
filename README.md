@@ -3,5 +3,5 @@
 
 #### 09/24/2024 - We have been working with bash and markdown files. I can also navigate around the terminal now! 
 ####
-#### Add to this throughout the course…
+##### Add to this throughout the course…
 
