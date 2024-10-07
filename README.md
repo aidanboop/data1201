@@ -10,5 +10,5 @@
 | Week 2| Command Line Basics| -|
 | Week 3| Working With Files| -|
 | Week 4| Markdown| This ReadMe|
-| Week 5| -| -|
+| Week 5| Git Repos| planets Repo|
 | Week 6| Scripting!| lab6q2|
