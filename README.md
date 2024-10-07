@@ -11,4 +11,4 @@
 | Week 3| Working With Files| -|
 | Week 4| Markdown| This ReadMe|
 | Week 5| -| -|
-| Week 6| -| -|
+| Week 6| Scripting!| lab6q2|
