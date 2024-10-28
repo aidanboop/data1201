@@ -7,4 +7,9 @@
 | Week 2 | Command Line Basics | -           |
 | Week 3 | Working with Files  | -           |
 | Week 4 | Markdown            | This Readme |
+| Week 5 | git                 | GitHub Setup|
+| Week 6 | Scripting           | lab6q2.sh   |
+| Week 7 | More git            | index.md    |
+| Week 8 | ---                 | ---         |
+| Week 9 | .bashrc + Scripts   | populate.sh |
 
