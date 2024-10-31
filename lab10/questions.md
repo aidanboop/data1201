@@ -23,3 +23,4 @@ It matches the data that is INSIDE the rectangle highlighted area. Pretty cool!
 # Questions for Post-Lab Assignment 10!
 
 ### Question 6: After the last step, some columns are empty. (You can check by text faceting a column) Why? What do you think we can do to fix it?
+Because they are not synced with the clustered data, therefore the do not show when presented with 5-10 data points. Maybe we can figure out how to split clustered data into seperate sub-catagories.
