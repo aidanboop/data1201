@@ -12,4 +12,4 @@
 | Week 7 | More git            | index.md    |
 | Week 8 | ---                 | ---         |
 | Week 9 | .bashrc + Scripts   | populate.sh |
-
+| Week 10| Data Clustering     | OpenRefine  |
