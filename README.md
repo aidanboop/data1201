@@ -13,3 +13,7 @@
 | Week 8 | ---                 | ---         |
 | Week 9 | .bashrc + Scripts   | populate.sh |
 | Week 10| Data Clustering     | OpenRefine  |
+| Week 11| Reconciliation      | backup.tar  |
+| Week 12| Process Manipulating| tmux        |
+| Week 13| Regular Expression  | regex101    |
+| Week 14| Finals Week         | thatsmyname!|
